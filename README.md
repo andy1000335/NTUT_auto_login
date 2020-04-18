@@ -5,4 +5,4 @@
 ## Login
 - Selenium
 ## Demo
-<img src="image/demo.gif" width="25%" height="25%">
+<img src="image/demo.gif" width="50%" height="50%">
