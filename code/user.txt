@@ -1,2 +1,2 @@
-106310116
-jb1000335
+[stdentID]
+[password]
