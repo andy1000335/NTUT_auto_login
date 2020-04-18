@@ -1,0 +1,3 @@
+Step1. 在 scaling_ratio.txt 內設定電腦顯示器縮放比例 (ex:1.0、1.25...)
+
+Step2. 在 user.txt 內設定帳號與密碼 (分別輸入於一、二行)
